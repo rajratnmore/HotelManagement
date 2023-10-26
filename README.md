@@ -1,4 +1,4 @@
-# HotelManagement
+# HotelManagement Project
 
 ## Framework and Language Used
 
